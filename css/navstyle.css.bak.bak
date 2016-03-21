@@ -1,0 +1,58 @@
+Body,p,ul,ol,dl,dd,dt,li,input,h1,h2,h3,h4,h5,h6{
+Margin:0;
+Padding:0;
+List-style:none;
+}
+/*主导航*/
+.mainbav{
+  width:100%;
+  height:100px;
+  background:black;
+}
+
+.onebox{
+  width:1120;
+  height:100px;
+  background:red;
+  margin:0 auto;
+}
+
+/*登陆导航*/
+.subnav{
+  width:100%;
+  height:38px;
+  background:#ccc;
+}
+
+/*商品展示*/
+.conbox{
+  width:100%;
+  height:1150px;
+  background:olive;
+}
+.main{
+  width:1120px;
+  height:1150px;
+  background:blue;
+  margin:0 auto;
+}
+
+/*商品展示2*/
+.con2box{
+  width:100%;
+  height:186px;
+  background:olive;
+}
+
+.con2{
+  width:1120px;
+  height:186px;
+  background:green;
+  margin:36px auto;
+}
+
+/*底部内容*/
+.bottombox{
+  width:100%;
+  height:62px;
+}
